@@ -1,0 +1,3 @@
+Url = https://demo.guru99.com/test/newtours/index.php
+UName=QQQQ
+Pword=qqqq
